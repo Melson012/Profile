@@ -1,5 +1,5 @@
 $(function(event){
 
-alert("js is working");
+alert("Welcome to My Online Profile");
 
 });
