@@ -4,8 +4,9 @@ body {
   color: #f5f6f7;
 }
 #testlogo{
-  width: 50%;
-  height: 55%;
+  width: 170px;
+  height: 140px;
+  border-radius: 15px;
 }
 .conatct{
 	display: inline-block;
