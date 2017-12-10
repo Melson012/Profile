@@ -3,6 +3,10 @@ body {
   line-height: 1.8;
   color: #f5f6f7;
 }
+#testlogo{
+  width: 50%;
+  height: 55%;
+}
 .conatct{
 	display: inline-block;
 }
